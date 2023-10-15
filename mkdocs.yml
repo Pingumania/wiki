@@ -11,6 +11,7 @@ repo_url: https://github.com/Pingumania/wiki
 copyright: Copyright &copy; 2023 Pingumania
 
 # Configuration
+docs_dir: '.'
 theme:
   name: material
   custom_dir: material/overrides
